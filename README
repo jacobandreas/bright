@@ -1,0 +1,4 @@
+Bright is an attempt at a (special-)relativistic physics engine for PyGame. The
+goal is to provide a simple way of determining the apparent positions of objects
+with respect to arbitrary frames of reference, in order to create games that
+are difficult to play.
